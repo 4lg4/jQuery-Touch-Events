@@ -66,7 +66,7 @@ $ bower install jquery-touch-events
 Alternatively, you can also install jQuery-touch-events using NPM as follows:
 
 ```
-$ npm install git+https://github.com/benmajor/jQuery-Touch-Events.git
+$ npm install benmajor-jquery-touch-events
 ```
 
 ### 3. Usage:
